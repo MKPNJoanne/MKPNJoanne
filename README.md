@@ -1,9 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://tenor.com/view/anime-lofi-gif-25253515)]
 <h1 align="center">Hi 👋, I'm MKPN Joanne</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://tenor.com/view/retrowave-synthwave-chillwave-retro-synth-gif-18223058)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkpnjoanne&label=Profile%20views&color=0e75b6&style=flat" alt="mkpnjoanne" /> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/pramudi2001" target="blank"><img src="https://img.shields.io/twitter/follow/pramudi2001?logo=twitter&style=for-the-badge" alt="pramudi2001" /></a> </p>
 
