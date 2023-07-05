@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://tenor.com/view/anime-lofi-gif-25253515)]
+<img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/ezgif-5-d384fb9b2a.gif"/>
+
 <h1 align="center">Hi 👋, I'm MKPN Joanne</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka </h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://tenor.com/view/retrowave-synthwave-chillwave-retro-synth-gif-18223058)">
