@@ -1,3 +1,5 @@
+[![An image of @mkpnjoanne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mkpnjoanne)](https://holopin.io/@mkpnjoanne)
+
 <img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/ezgif-5-d384fb9b2a.gif"/>
 
 <h1 align="center">Hi 👋, I'm MKPN Joanne</h1>
