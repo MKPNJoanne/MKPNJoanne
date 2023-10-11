@@ -4,7 +4,7 @@
 <img align="center" alt="coding" width="100%" src="https://github.com/MKPNJoanne/MKPNJoanne/blob/main/github-header-image.png"/>
 
 <h1 align="center">Hi 👋, I'm  Joanne</h1>
-<h3 align="center">A passionate Developer from Sri Lanka </h3>
+<h3 align="center">Coding Canvas to Client: Mastering Full-Stack Wizardry </h3>
 
 <p align="left"> <a href="https://twitter.com/pramudi2001" target="blank"><img src="https://img.shields.io/twitter/follow/pramudi2001?logo=twitter&style=for-the-badge" alt="pramudi2001" /></a> </p>
 
