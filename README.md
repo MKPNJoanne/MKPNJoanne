@@ -1,5 +1,5 @@
 
-<img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/ezgif-5-d384fb9b2a.gif"/>
+![Header](./[Your header image])
 
 <img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/ezgif-5-d384fb9b2a.gif"/>
 
