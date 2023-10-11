@@ -1,7 +1,7 @@
 
-![Header](./[Your header image])
 
-<img align="center" alt="coding" width="100%" src="https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi/blob/main/ezgif-5-d384fb9b2a.gif"/>
+
+<img align="center" alt="coding" width="100%" src="https://github.com/MKPNJoanne/MKPNJoanne/blob/main/github-header-image.png"/>
 
 <h1 align="center">Hi 👋, I'm  Joanne</h1>
 <h3 align="center">A passionate Developer from Sri Lanka </h3>
